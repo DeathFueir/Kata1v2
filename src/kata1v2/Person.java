@@ -1,16 +1,8 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package kata1v2;
 
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 
-/**
- *
- * @author usuario
- */
 public class Person {
    private final String name;
    private final Calendar birthday;
